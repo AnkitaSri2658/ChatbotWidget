@@ -1,0 +1,12 @@
+.App {
+  background-color: #1a1a1a;
+  position: relative;
+  float: left;
+  color: #fff;
+  font-family: sans-serif, Arial;
+}
+
+.App > div {
+  padding: 40px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,16 @@
+.App-logo {
+  width: 120px;
+  padding: 15px;
+}
+.App {
+  background-color: #1a1a1a;
+  position: relative;
+  float: left;
+  color: #fff;
+  font-family: sans-serif, Arial;
+}
+
+.App > div {
+  padding: 30px;
+  box-sizing: border-box;
+}
