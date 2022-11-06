@@ -56,12 +56,14 @@ Each item in the JSON contains the following:
 to use in their AI bot.**
 
 
-## Minimum Requirements
+## Solution
 
 - This page allows users to get an overview over all the pretrained intents that are available (see intents.json).
 - Users can see at least one example expression without any extra clicks.
 - Users can select/unselect intents individually or all at once.
 - Implemented using `create-react-app`.
+
+![image](https://user-images.githubusercontent.com/99965138/200150539-885559c0-1d97-49dd-be8d-91ba077f4015.png)
 
 
 ## npm install
